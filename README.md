@@ -33,6 +33,9 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 [**Экосистема разработки 2024: результаты исследования JetBrains**](https://www.jetbrains.com/ru-ru/lp/devecosystem-2024/)            
 
 [Which programming languages have you used in the last 12 months?](https://www.jetbrains.com/lp/devecosystem-2024/#KeDHWJ)             
+
+<img src="https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/JB_2024_Which%20programming%20languages%20have%20you%20used%20in%20the%20last%2012%20months.png" width="648"/>
+
 [Programming, scripting, and markup language usage](https://www.jetbrains.com/lp/devecosystem-2024/#pl_dynamics)             
 
 
