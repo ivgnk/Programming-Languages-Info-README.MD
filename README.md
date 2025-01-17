@@ -50,8 +50,9 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 
 
 ## Youtube 🎦                   
-[Most Popular Programming Languages 1965 - 2023](https://www.youtube.com/watch?v=iNI9QmnGiOE)        
-
+[WatchStats: 89,3 тыс. подписMost Popular Programming Languages 1965 - 2023](https://www.youtube.com/watch?v=iNI9QmnGiOE)       
+[Data Is Beautiful: Most Popular Programming Languages 1965 - 2022](https://www.youtube.com/watch?v=qQXXI5QFUfw)         
+[Ranking Tables Competition: Top 10 Most Popular Programming Languages (2000 - 2023)](https://www.youtube.com/watch?v=GVmeP21x3iM)            
 
 # 🔨other tools            
 **github.com: [О файлах README](https://docs.github.com/ru/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)**                         
