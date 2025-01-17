@@ -18,7 +18,9 @@ https://github.com/jbroeders/tiobe-index-analysis (data 2020-2023) /ipynb/
 
 https://github.com/amrrs/tiobeindexr /r/            
 
-
+## 🏡 Stackoverflow                   
+https://survey.stackoverflow.co/2024                  
+https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language-prof                   
 
 
 
