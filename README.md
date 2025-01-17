@@ -19,8 +19,8 @@ https://github.com/amrrs/tiobeindexr /r/
 
 ## 🏠 GitHub Octoverse (activity on GitHub)           
 https://octoverse.github.com                             
-[2024](https://github.blog/news-insights/octoverse/octoverse-2024)            
-
+**[2024](https://github.blog/news-insights/octoverse/octoverse-2024)**              
+<img src="https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/2024_GitHub-Octoverse-2024-top-programming-languages.webp" width="648"/>              
 
 ## 🏫 Tiobe
 https://www.tiobe.com/tiobe-index                      
