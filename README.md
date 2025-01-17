@@ -2,7 +2,7 @@
 
 ## 📃 Sources               
 
-## 🏠 Git               
+## 🏠 GitHub               
 https://github.com/scantykneesocks/gcp_language_analysis gcp (Google Cloud Platform) + github + stackoverflow + tiobe  (data 2020-2023)
 
 TIOBE Top 20  https://github.com/awesome-code-resources/awesome-code-resources                   
@@ -16,6 +16,11 @@ https://github.com/jbroeders/tiobe-index-analysis (data 2020-2023) /ipynb/
 2023 https://github.com/MarceloPaciulli/TIOBE-Index-February-2023 /py/               
 
 https://github.com/amrrs/tiobeindexr /r/            
+
+## 🏠 GitHub Octoverse (activity on GitHub)           
+https://octoverse.github.com                             
+[2024](https://github.blog/news-insights/octoverse/octoverse-2024)            
+
 
 ## 🏫 Tiobe
 https://www.tiobe.com/tiobe-index                      
