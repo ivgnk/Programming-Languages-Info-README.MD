@@ -21,7 +21,7 @@ https://github.com/amrrs/tiobeindexr /r/
 ## 🏡 Stackoverflow                   
 https://survey.stackoverflow.co/2024                  
 https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language-prof                   
-[most-popular-technologies-language-prof](https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/stackoverflow-dev-survey-2024-technology-most-popular-technologies-language-prof-social.png)           
+![most-popular-technologies-language-prof](https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/stackoverflow-dev-survey-2024-technology-most-popular-technologies-language-prof-social.png)           
 
 
 
