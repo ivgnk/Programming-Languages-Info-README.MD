@@ -29,7 +29,8 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 
 
 ## Jetbrains 🏤           
-[**The Development Ecosystem of 2024: JetBrains Research Results / Экосистема разработки 2024: результаты исследования JetBrains**](https://www.jetbrains.com/ru-ru/lp/devecosystem-2024/)            
+[**The State of Developer Ecosystem Report 2024**](https://www.jetbrains.com/lp/devecosystem-2024/)             
+[**Экосистема разработки 2024: результаты исследования JetBrains**](https://www.jetbrains.com/ru-ru/lp/devecosystem-2024/)            
 
 
 
