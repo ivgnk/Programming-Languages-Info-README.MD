@@ -5,6 +5,7 @@
 ## 🏠 GitHub               
 gcp (Google Cloud Platform) + github + stackoverflow + tiobe  (data 2020-2023)                   
 https://github.com/scantykneesocks/gcp_language_analysis                 
+https://github.com/scantykneesocks/gcp_language_analysis/blob/main/bqteam2%20b%EC%95%88.pptx               
 
 TIOBE Top 20  https://github.com/awesome-code-resources/awesome-code-resources                   
 
