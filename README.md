@@ -36,7 +36,8 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 
 <img src="https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/JB_2024_Which%20programming%20languages%20have%20you%20used%20in%20the%20last%2012%20months.png" width="648"/>
 
-[Programming, scripting, and markup language usage](https://www.jetbrains.com/lp/devecosystem-2024/#pl_dynamics)             
+[Programming, scripting, and markup language usage](https://www.jetbrains.com/lp/devecosystem-2024/#pl_dynamics)           
+<img src="https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/JB_2024_Programming%2C%20scripting%2C%20and%20markup%20language%20usage.png" width="648"/>                 
 
 
 
