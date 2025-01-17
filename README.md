@@ -30,5 +30,6 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 
 
 
-# 🔨Tools       
-**[О файлах README](https://docs.github.com/ru/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)**
+# 🔨other tools            
+**[О файлах README](https://docs.github.com/ru/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)**                         
+[Hidden markdown text on GitHub](https://stackoverflow.com/questions/46734820/hidden-markdown-text-on-github)                 
