@@ -5,7 +5,6 @@
 ## 🏠 Git               
 https://github.com/scantykneesocks/gcp_language_analysis gcp (Google Cloud Platform) + github + stackoverflow + tiobe  (data 2020-2023)
 
-https://www.tiobe.com/tiobe-index                      
 TIOBE Top 20  https://github.com/awesome-code-resources/awesome-code-resources                   
 
 https://github.com/search?q=tiobe&type=repositories                       
@@ -17,6 +16,9 @@ https://github.com/jbroeders/tiobe-index-analysis (data 2020-2023) /ipynb/
 2023 https://github.com/MarceloPaciulli/TIOBE-Index-February-2023 /py/               
 
 https://github.com/amrrs/tiobeindexr /r/            
+
+## 🏫 Tiobe
+https://www.tiobe.com/tiobe-index                      
 
 ## 🏡 Stackoverflow                   
 https://survey.stackoverflow.co/2024                  
