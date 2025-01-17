@@ -28,6 +28,10 @@ https://survey.stackoverflow.co/2024/technology#most-popular-technologies-langua
 <img src="https://github.com/ivgnk/Programming-Languages-Statistics-and-Information/blob/master/Charts/stackoverflow-dev-survey-2024-technology-most-popular-technologies-language-prof-social.png" width="648"/>
 
 
+## Jetbrains 🏤           
+**[The Development Ecosystem of 2024: JetBrains Research Results / Экосистема разработки 2024: результаты исследования JetBrains](https://www.jetbrains.com/ru-ru/lp/devecosystem-2024/)            **
+
+
 
 
 # 🔨other tools            
