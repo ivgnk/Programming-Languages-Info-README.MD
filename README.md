@@ -3,6 +3,8 @@
 ## 📃 Sources               
 
 ## 🏠 Git               
+https://github.com/scantykneesocks/gcp_language_analysis gcp (Google Cloud Platform) + github + stackoverflow + tiobe  (data 2020-2023)
+
 https://www.tiobe.com/tiobe-index                      
 TIOBE Top 20  https://github.com/awesome-code-resources/awesome-code-resources                   
 
