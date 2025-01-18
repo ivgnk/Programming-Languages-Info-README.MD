@@ -1,4 +1,10 @@
 # ✔️ Wikipedia              
+**https://en.wikipedia.org/wiki/Generational_list_of_programming_languages**            
+**https://en.wikipedia.org/wiki/Timeline_of_programming_languages**                      
+https://en.wikipedia.org/wiki/Programming_language             
+https://en.wikipedia.org/wiki/History_of_programming_languages    
+**https://en.wikipedia.org/wiki/Comparison_of_programming_languages**               
+
 https://commons.wikimedia.org/wiki/Category:History_of_software                            
 https://commons.wikimedia.org/wiki/Category:Software_by_decade                       
 
