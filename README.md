@@ -23,7 +23,7 @@ https://habr.com/ru/hubs/cryptocurrency
 # 📏 Ratings (2024)             
 
 ## 📃 Sources               
-18.01.2025 **[Рейтинг языков программирования TIOBE за январь 2025 года](https://www.opennet.ru/opennews/art.shtml?num=62580):
+18.01.2025 **[Рейтинг языков программирования TIOBE за январь 2025 года](https://www.opennet.ru/opennews/art.shtml?num=62580):                         
 [Tiobe](https://www.tiobe.com/tiobe-index)                   
 [github: PYPL](https://pypl.github.io/PYPL.html)             
 [IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages-2024)              
