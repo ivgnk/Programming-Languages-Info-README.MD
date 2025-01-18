@@ -2,7 +2,10 @@
 **https://en.wikipedia.org/wiki/Generational_list_of_programming_languages**            
 **https://en.wikipedia.org/wiki/Timeline_of_programming_languages**                      
 https://en.wikipedia.org/wiki/Programming_language             
+
 https://en.wikipedia.org/wiki/History_of_programming_languages    
+https://ru.wikipedia.org/wiki/История_языков_программирования (Fortran. Algol, Lisp, Cobol)          
+
 **https://en.wikipedia.org/wiki/Comparison_of_programming_languages**               
 
 https://commons.wikimedia.org/wiki/Category:History_of_software                            
@@ -17,10 +20,22 @@ https://commons.wikimedia.org/wiki/Category:Software_by_decade
 
 https://commons.wikimedia.org/wiki/Category:History_of_Unicode
 
+## 🆕 Programming languages version histories                  
+**https://en.wikipedia.org/wiki/Category:Software_version_histories**                
+https://en.wikipedia.org/wiki/History_of_Python           
+https://en.wikipedia.org/wiki/Java_version_history                
+https://en.wikipedia.org/wiki/History_of_Delphi_(software)            
+https://en.wikipedia.org/wiki/Android_version_history                  
+https://en.wikipedia.org/wiki/.NET_Framework_version_history             
+
+
 #  💊 Others
-
 ## 0️⃣ Habr
-
+**[hub: История IT](https://habr.com/ru/hubs/history/)**                         
+2024 [Краткий генезис и эволюция языков программирования](https://habr.com/ru/companies/sberbank/articles/851382/)               
+2024 [От безумного ассемблера до Swift: История развития языков программирования](https://habr.com/ru/articles/790804/)          
+2019 [Краткая и на 146% точная история языков программирования](https://habr.com/ru/articles/481822/)             
+2016 [Эволюция языков программирования](https://habr.com/ru/companies/geekbrains/articles/282788/)               
 
 ## 1️⃣ Opennet
 [Программирование](https://www.opennet.ru/keywords/#15)          
