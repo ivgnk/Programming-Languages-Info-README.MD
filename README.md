@@ -1,3 +1,25 @@
+# ➿ Languages        
+https://habr.com/ru/hubs/programming             
+
+https://habr.com/ru/hubs/artificial_intelligence              
+https://habr.com/ru/hubs/machine_learning               
+https://habr.com/ru/hubs/data_engineering                     
+https://habr.com/ru/hubs/python              
+https://habr.com/ru/hubs/r                            
+https://habr.com/ru/hubs/bigdata                  
+https://habr.com/ru/hubs/natural_language_processing                  
+
+https://habr.com/ru/hubs/history                   
+
+https://habr.com/ru/hubs/maths              
+https://habr.com/ru/hubs/algorithms                  
+https://habr.com/ru/hubs/statistics/articles              
+https://habr.com/ru/hubs/zadachki              
+
+https://habr.com/ru/hubs/research            
+https://habr.com/ru/hubs/cryptocurrency                  
+
+
 # 📏 Ratings (2024)             
 
 ## 📃 Sources               
