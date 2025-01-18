@@ -23,6 +23,11 @@ https://habr.com/ru/hubs/cryptocurrency
 # 📏 Ratings (2024)             
 
 ## 📃 Sources               
+18.01.2025 **[Рейтинг языков программирования TIOBE за январь 2025 года](https://www.opennet.ru/opennews/art.shtml?num=62580):
+[Tiobe](https://www.tiobe.com/tiobe-index)                   
+[github: PYPL](https://pypl.github.io/PYPL.html)             
+[IEEE Spectrum](https://spectrum.ieee.org/top-programming-languages-2024)              
+[RedMonk=GitHub+Stack Overflow](https://redmonk.com/sogrady/2024/09/12/language-rankings-6-24/)**                                             
 
 ## 🏠 GitHub               
 gcp (Google Cloud Platform) + github + stackoverflow + tiobe  (data 2020-2023)                   
