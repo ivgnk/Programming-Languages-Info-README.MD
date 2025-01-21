@@ -6,7 +6,7 @@
 ## nuprl             
 [History of Programming Languages, Spring 2017](https://github.com/nuprl/hopl-s2017)                    
 
-## Others
+## others                   
 [A chronology of Ruby programming language since 1993](https://github.com/takahashim/ruby-history)        
 
 ## Non Git src                   
